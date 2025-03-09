@@ -1,3 +1,9 @@
+/*
+    Name: Saeed Soukiah
+    Date: 12/11/2024
+    Author: Saeed Soukiah
+*/
+
 #include "raylib.h"
 #include "Game.h"
 #include <string>
